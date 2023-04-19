@@ -62,6 +62,18 @@ h2 {
   border-radius: 40px;
 }
 
+.Aliados {
+  text-align: center;
+  font-family: "Martel", serif;
+  background-color: #D9D9D9;
+  color: black;
+}
+
+.proyectos {
+  background-size: cover;
+  border-radius: 50px;
+}
+
 .contacto {
   color: white;
   font-size: 40px;
